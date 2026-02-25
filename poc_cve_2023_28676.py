@@ -1,7 +1,4 @@
 # PoC для демонстрации CVE-2023-28676 (Command Injection в веб‑приложении)
-# Автор: [Ваше имя]
-# Дата: [Текущая дата]
-
 import requests
 import sys
 
@@ -45,3 +42,4 @@ if __name__ == "__main__":
     print(f"Payload: {PAYLOAD}")
     print("-" * 50)
     test_vulnerability(TARGET_URL, PAYLOAD)
+
