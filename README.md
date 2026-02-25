@@ -1,5 +1,3 @@
-# Lab_10
-cve_poc_exploit_holostih_HW1
 # PoC для CVE‑2023‑28676 — Command Injection
 
 **Автор:** Холост  
